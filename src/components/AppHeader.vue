@@ -20,7 +20,10 @@
               <RouterLink to="/" class="nav-link active">Home</RouterLink>
             </li>
             <li class="nav-item">
-              <RouterLink class="nav-link" to="/about">About</RouterLink>
+              <RouterLink to="/about" class="nav-link">About</RouterLink>
+            </li>
+            <li class="nav-item">
+            <RouterLink to="/news" class="nav-link">News</RouterLink>
             </li>
           </ul>
         </div>
