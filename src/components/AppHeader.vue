@@ -23,7 +23,7 @@
               <RouterLink to="/about" class="nav-link">About</RouterLink>
             </li>
             <li class="nav-item">
-            <RouterLink to="/news" class="nav-link">News</RouterLink>
+              <RouterLink to="/news" class="nav-link">News</RouterLink>
             </li>
           </ul>
         </div>
